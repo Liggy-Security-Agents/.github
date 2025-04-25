@@ -1,4 +1,4 @@
-# Liggy Security Agents!
+# Linjao Security Agents!
 
 ![Liggy Security Agents Logo](https://images.deepai.org/art-image/d83806f4be074c9ca6c1fe95decba931/a-good-logo-for-a-company-called-liggy-security-agent.jpg)
 
@@ -14,5 +14,5 @@ We are dedicated to providing top-notch security solutions for organizations. Th
 
 We welcome contributions from everyone! If you're interested in collaborating or have any questions, feel free to reach out.
 
-- **Contact**: [Fixlit Liggy](mailto:Fixlit@securityliggysecurityagentscomputing.com)
-- **Follow us**: [Youtube] (https://https://www.youtube.com/@LiggyLLC)
+- **Contact**: [Fixlit](mailto:Fixlit@securitylinjaosecurityagentscomputing.com)
+- **Follow us**: [Youtube] (https://https://www.youtube.com/@Linjao)
